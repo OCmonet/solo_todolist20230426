@@ -375,3 +375,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/django,windows,macos,pycharm,visualstudiocode,venv
+
+# Pycache 지우기
+*.pyc
+__pycache__/
